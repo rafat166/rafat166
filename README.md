@@ -1,4 +1,4 @@
-# 👋 Hi, I'm S.A. Rafat
+# 👋 Meet S.A. Rafat.
 
 🚦 **Transportation Engineer | Traffic Simulation Expert | Geometric Designer | Traffic Safety Expert |  AI-in-Transport Researcher**
 ---
