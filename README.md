@@ -16,6 +16,7 @@
 - **Simulation & CAD Tools:** PTV Vissim, AutoCAD Civil 3D, LISCAD  <br>
 - **Fields of Expertise:** Traffic Simulation, ITS, Transportation Planning, Data Analysis
 ---
+
 ## 👨‍💼 Current Role
 Managing Director at [Route Sixty Four Design and Consultant Ltd](https://route64dc.com/)
 
