@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="80" />
 </p>
-- **Programming & Analytics:** Python, C++, R  
-- **Simulation & CAD Tools:** PTV Vissim, AutoCAD Civil 3D, LISCAD  
+- **Programming & Analytics:** Python, C++, R  <br>
+- **Simulation & CAD Tools:** PTV Vissim, AutoCAD Civil 3D, LISCAD  <br>
 - **Fields of Expertise:** Traffic Simulation, ITS, Transportation Planning, Data Analysis
 ---
 ## 👨‍💼 Current Role
